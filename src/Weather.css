@@ -1,0 +1,32 @@
+.weather-container {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+.weather-form {
+    margin-bottom: 20px;
+    padding: 50px 200px;
+    /* background-color: #B0E0E6; */
+    background-color: turquoise;
+}
+input{
+    padding: 15px 26px;
+    border: none;
+    border-radius: 5px;
+}
+.weather-submit {
+    padding: 15px 26px;
+    background-color: #ED3052;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.weather-info {
+    margin-bottom: 20px;
+    display: flex;
+    text-align: center;
+}
+.weather-icon {
+    width: 100px;
+    margin:10px;
+}
